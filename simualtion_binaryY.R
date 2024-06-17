@@ -1,3 +1,4 @@
+# Note that the "MRTP" has been changed to "TEMR".
 
 library(MASS)
 library(doMC)
